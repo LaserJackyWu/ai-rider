@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="345dp"
+        android:layout_weight="0.55">
+
+        <ImageView
+            android:layout_width="567dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ai1100" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ai2600" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="公司介紹  剛鈺股份有限公司專精於旋翼式空中無人載具(UAV)的研發與製造，所研發之YJ-1000-QC和YJ-800-QC商用旋翼機，性能優越，分別獲得2014年和2015年的台灣精品獎，自上市以來已廣獲公務機關與私人企業之採購與租用，並獲選經濟部SBIR專案績效卓越獎。  近年來全世界UAV產業蓬勃發展，國際市場需求日殷，為開拓外銷產值，最近積極以自有品牌AI-RIDER行銷國際，期以台灣精品的形象，屹立於全球UAV產業。  專精於旋翼式無人空中載具(UAV)之開發與設計，核心關鍵零組件與技術皆自行研發、設計、製造，其技術團隊包含軟體、電子、動力、機構、系統整合等專業工程師。  更設有空拍攝影專業團隊提供全省之空拍租賃服務。" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="品牌故事  台灣自主研發AI-RIDER商用多旋翼無人空中載具(UAV, Unmanned Aerial Vehicle)  剛鈺公司投注於無人空中載具(UAV, Unmanned Aerial Vehicle)的研發已逾十年，2011年上市第一款無人機，其自主停旋與自主飛行的特性普獲客戶好評。此後陸續於2014年起，每年的新機種皆獲得台灣精品獎的肯定。剛鈺公司以AI-RIDER為台灣自主研發無人機的品牌，並於多個國家例如北美、歐盟、日本、大陸等註冊商標權，以行銷海內外。''AI''代表著人工智慧(Artificial Intelligence)；''RIDER''代表著載具，期許自己持續深耕於智能產品的研發與創新。" />
+</LinearLayout>

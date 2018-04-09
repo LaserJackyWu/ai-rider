@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- prefence keys, no translation needed -->
+    <string name="pref_commands_mode">pref_commands_mode</string>
+    <string name="pref_checksum_mode">pref_checksum_mode</string>
+    <string name="pref_commands_ending">pref_commands_ending</string>
+    <string name="pref_log_timing">pref_log_timing</string>
+    <string name="pref_log_direction">pref_log_direction</string>
+    <string name="pref_need_clean">pref_need_clean</string>
+    <!-- prefence keys, no translation needed -->
+
+    <string name="app_name">AI-RIDER</string>
+
+    <string name="msg_not_connected">未連接</string>
+    <string name="msg_connecting">連接...</string>
+    <string name="msg_connected">連接</string>
+
+    <string name="action_bluetooth">藍芽開啟/藍芽關閉</string>
+    <string name="no_bt_support">您的設備不支持藍牙</string>
+    <string name="empty_device_name">&lt;新設備&gt;</string>
+
+    <string name="menu_send">發送日誌...</string>
+    <string name="menu_settings">設置</string>
+    <string name="menu_clear">清除歷史記錄</string>
+
+    <string name="select_device">選擇設備</string>
+    <string name="search_message">搜索設備...</string>
+    <string name="title_paired_devices">配對設備</string>
+    <string name="title_other_devices">其他設備</string>
+    <string name="none_paired">沒有配對的設備</string>
+    <string name="none_found">未找到</string>
+    <string name="command_hint">在此輸入命令</string>
+    <string name="button_send">發送</string>
+
+    <!-- 設定-->
+    <string name="log_settings_category">命令歷史：</string>
+
+    <string name="log_time">時間</string>
+    <string name="log_time_summary">在日誌中顯示時間</string>
+    <string name="log_direction">Direction</string>
+    <string name="log_direction_summary">Show I/O direction in log</string>
+
+    <string name="commands_mode">輸入模式：</string>
+    <string name="checksum_mode">校驗</string>
+    <string name="checksum_mode_summary">將校驗和添加到命令</string>
+    <string name="commands_mode_summary">選擇輸入模式</string>
+    <string name="commands_ending_summary">選擇結尾</string>
+
+    <string name="need_clean">清除上一個命令</string>
+    <string name="need_clean_summary">發送後清理命令視窗</string>
+
+
+    <string name="About">關於</string>
+
+    <string name="UTC_Data">日期</string>
+    <string name="UTC_Time">時間</string>
+    <string name="AAHRS_Roll">旋轉</string>
+    <string name="AAHRS_Pitch">俯仰</string>
+    <string name="AAHRS_Yaw">偏擺</string>
+    <string name="GPS_COG">GPS_COG</string>
+    <string name="GPS_Speed">GPS速度</string>
+    <string name="AAHRS_Climb_Rate">垂直速度</string>
+    <string name="Auto_Pilot_Back">回家</string>
+    <string name="Auto_Pilot_Status">回家狀態</string>
+    <string name="Camera_Pitch">相機角度</string>
+    <string name="Longitude">經度</string>
+    <string name="Latitude">緯度</string>
+    <string name="AAHRS_Altitude">姿態</string>
+    <string name="Motor_Total_Power">Motor_Total_Power</string>
+    <string name="Battery_Cell">電池規格</string>
+    <string name="Volt_ori">電壓</string>
+    <string name="Curr">電流</string>
+    <string name="mAh">電池容量</string>
+    <string name="Temp">溫度</string>
+    <string name="GPS_Quality">GPS狀態</string>
+    <string name="Take_off">起飛</string>
+    <string name="Landing">降落</string>
+    <string name="GoH">回家</string>
+    <string name="GoP">到點</string>
+    <string name="RPM">轉速</string>
+    <string name="ARG_Time">日期</string>
+    <string name="ARG_F">日期</string>
+    <string name="ARG_P">日期</string>
+
+
+
+
+
+
+
+</resources>
