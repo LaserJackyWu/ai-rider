@@ -1,0 +1,43 @@
+name: Build Taiwan-first 100-channel IPTV list
+
+on:
+  push:
+    branches: [tubo-playlist]
+    paths:
+      - tubo/build_taiwan_100.py
+      - .github/workflows/build-tubo-100.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout playlist branch
+        uses: actions/checkout@v4
+        with:
+          ref: tubo-playlist
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependency
+        run: python -m pip install --disable-pip-version-check requests
+
+      - name: Run four-round stream test
+        run: python tubo/build_taiwan_100.py
+
+      - name: Commit generated playlist and report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tubo/taiwan_100_50pct.m3u tubo/taiwan_100_50pct_report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Taiwan-first 100-channel tested playlist"
+            git push origin HEAD:tubo-playlist
+          fi
