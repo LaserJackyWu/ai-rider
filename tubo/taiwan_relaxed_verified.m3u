@@ -1,133 +1,121 @@
 #EXTM3U
-#PLAYLIST:途播｜台灣頻道寬鬆驗證版｜2026-09-04 04:45:00 UTC
-#NOTE:3 輪實際影像讀流測試，每輪約 6 秒；至少通過 2 輪才收錄。成人來源未收錄。
+#PLAYLIST:途播｜台灣頻道寬鬆驗證・人工清理版｜2026-09-04
+#NOTE:從 274 個候選網址、169 個頻道名稱中測試；本檔均通過 3/3 輪影像讀流。
+#NOTE:每輪實際讀取約 6 秒；部分台灣中繼首次啟動約需 15–20 秒。
+#NOTE:已移除名稱誤判、完全重複項目與成人來源。候補中繼之授權狀態未逐一確認。
 
-#EXTINF:-1 group-title="台灣｜候補中繼",1930年代经典电影 [3/3｜啟動7.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.ottiptv.cc/yy/1356363815
-#EXTINF:-1 group-title="台灣｜候補中繼",三立新聞 [3/3｜啟動3.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://vip.813555.xyz/FengYunTV.php?id=568
-#EXTINF:-1 group-title="台灣｜候補中繼",中天新闻 [3/3｜啟動17.1s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://222.128.55.152:9080/live/fc.m3u8
-#EXTINF:-1 group-title="台灣｜候補中繼",中視 [3/3｜啟動16.8s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8301/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",中視新聞 [3/3｜啟動17.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8302/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",中視經典 [3/3｜啟動17.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8321/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",中視菁采 [3/3｜啟動17.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8322/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",公視 [3/3｜啟動17.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8305/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",公視台語台 [3/3｜啟動17.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8306/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",台視新聞 [3/3｜啟動17.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8314/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",台視綜合 [3/3｜啟動17.8s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8316/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",台視財經 [3/3｜啟動17.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8315/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",客家电视 [3/3｜啟動17.3s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8303/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",易中天品三国 [3/3｜啟動4.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.ottiptv.cc/yy/1354931498
-#EXTINF:-1 group-title="台灣｜候補中繼",民視 [3/3｜啟動16.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8308/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",民視台灣台 [3/3｜啟動16.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8311/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",民視新聞台 [3/3｜啟動16.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8310/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",民視第一台 [3/3｜啟動16.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8309/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",華視 [3/3｜啟動18.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8317/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",華視教育體育文化 [3/3｜啟動18.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8318/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",華視新聞資訊 [3/3｜啟動18.3s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://220.135.241.47:8319/0.ts
-#EXTINF:-1 group-title="台灣｜候補中繼",霹雳火：速度与激情 [3/3｜啟動6.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.ottiptv.cc/yy/1382736895
-#EXTINF:-1 group-title="台灣｜公開來源",AXN Asia Taiwan [3/3｜啟動17.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣｜公開來源",Beautiful Life TV [3/3｜啟動11.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="台灣｜公開來源",CGNTV Chinese [3/3｜啟動9.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 group-title="台灣｜公開來源",Dali TV (大立電視台) [3/3｜啟動4.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="台灣｜公開來源",GOOD TV CH1 綜合台 [3/3｜啟動18.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 group-title="台灣｜公開來源",GOOD TV CH2 真理台 [3/3｜啟動17.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 group-title="台灣｜公開來源",MOMO TV [3/3｜啟動9.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
-#EXTINF:-1 group-title="台灣｜公開來源",NTD TV Asia-Pacific [3/3｜啟動1.8s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.ntdtv.com/aplive200/playlist.m3u8
-#EXTINF:-1 group-title="台灣｜公開來源",Supreme Master TV [3/3｜啟動2.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 group-title="台灣｜公開來源",TVBS Asia [3/3｜啟動3.3s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="台灣｜公開來源",Taiwan Indigenous TV [3/3｜啟動3.8s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="台灣｜公開來源",唯心電視 [3/3｜啟動7.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="台灣｜聚合來源",Discovery Turbo TV [3/3｜啟動3.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
-#EXTINF:-1 group-title="台灣｜聚合來源",Mister Rogers' Neighborhood [3/3｜啟動4.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
-#EXTINF:-1 group-title="台灣｜聚合來源",TVBS亚洲 [3/3｜啟動1.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣｜聚合來源",WBTV HBO Boxing [3/3｜啟動4.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
-#EXTINF:-1 group-title="台灣｜聚合來源",东森美洲 [3/3｜啟動2.1s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣｜聚合來源",东森超视 [3/3｜啟動1.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣｜聚合來源",台视 [3/3｜啟動2.2s]
+#EXTINF:-1 group-title="台灣｜無線・公共",台視
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣｜聚合來源",大立电视 [3/3｜啟動4.7s]
+#EXTINF:-1 group-title="台灣｜無線・公共",台視（慢速備援）
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="台灣｜聚合來源",民视新闻 [3/3｜啟動2.7s]
+http://220.135.241.47:8313/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",台視新聞
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8314/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",台視綜合
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8316/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",台視財經
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8315/0.ts
+
+#EXTINF:-1 group-title="台灣｜無線・公共",中視
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8301/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",中視新聞
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8302/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",中視經典
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8321/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",中視菁采
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8322/0.ts
+
+#EXTINF:-1 group-title="台灣｜無線・公共",華視
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8317/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",華視新聞資訊
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8319/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",華視教育體育文化
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8318/0.ts
+
+#EXTINF:-1 group-title="台灣｜無線・公共",民視
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8308/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",民視第一台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8309/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",民視台灣台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8311/0.ts
+#EXTINF:-1 group-title="台灣｜新聞",民視新聞台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8310/0.ts
+#EXTINF:-1 group-title="台灣｜新聞",民視新聞台（快速備援）
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+
+#EXTINF:-1 group-title="台灣｜無線・公共",公視
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8305/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",公視台語台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8306/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",客家電視
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8303/0.ts
+#EXTINF:-1 group-title="台灣｜無線・公共",原住民族電視台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+
+#EXTINF:-1 group-title="台灣｜新聞・候補",三立新聞
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://vip.813555.xyz/FengYunTV.php?id=568
+#EXTINF:-1 group-title="台灣｜新聞・候補",中天新聞
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://222.128.55.152:9080/live/fc.m3u8
+
+#EXTINF:-1 group-title="台灣｜第四台・候補",TVBS Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="台灣｜第四台・候補",AXN Asia Taiwan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣｜第四台・候補",東森超視
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣｜第四台・候補",東森美洲
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣｜第四台・候補",MOMO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+
+#EXTINF:-1 group-title="台灣｜綜合・其他",大立電視台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="台灣｜綜合・其他",美好生活電視台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="台灣｜綜合・其他",CGNTV 中文台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 group-title="台灣｜綜合・其他",GOOD TV 綜合台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="台灣｜綜合・其他",GOOD TV 真理台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 group-title="台灣｜綜合・其他",新唐人亞太台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 group-title="台灣｜綜合・其他",無上師電視台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 group-title="台灣｜綜合・其他",唯心電視
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
