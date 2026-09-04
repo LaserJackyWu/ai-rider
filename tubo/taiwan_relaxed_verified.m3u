@@ -1,331 +1,133 @@
 #EXTM3U
-#PLAYLIST:途播｜台灣頻道寬鬆驗證版｜2026-09-04 04:38:09 UTC
-#NOTE:每個網址進行 3 次、每次約 6 秒讀流測試；至少通過 2 次才收錄。
+#PLAYLIST:途播｜台灣頻道寬鬆驗證版｜2026-09-04 04:45:00 UTC
+#NOTE:3 輪實際影像讀流測試，每輪約 6 秒；至少通過 2 輪才收錄。成人來源未收錄。
 
-#EXTINF:-1 group-title="Entertainment",TVBS Asia [3/3｜3.8s]
+#EXTINF:-1 group-title="台灣｜候補中繼",1930年代经典电影 [3/3｜啟動7.2s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="General",Dali TV (大立電視台) [3/3｜4.8s]
+https://live.ottiptv.cc/yy/1356363815
+#EXTINF:-1 group-title="台灣｜候補中繼",三立新聞 [3/3｜啟動3.2s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="General",Taiwan Indigenous TV [3/3｜6.0s]
+http://vip.813555.xyz/FengYunTV.php?id=568
+#EXTINF:-1 group-title="台灣｜候補中繼",中天新闻 [3/3｜啟動17.1s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="Movies;Series",AXN Asia Taiwan [3/3｜10.8s]
+http://222.128.55.152:9080/live/fc.m3u8
+#EXTINF:-1 group-title="台灣｜候補中繼",中視 [3/3｜啟動16.8s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8301/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",中視新聞 [3/3｜啟動17.6s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8302/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",中視經典 [3/3｜啟動17.6s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8321/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",中視菁采 [3/3｜啟動17.9s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8322/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",公視 [3/3｜啟動17.4s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8305/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",公視台語台 [3/3｜啟動17.4s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8306/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",台視新聞 [3/3｜啟動17.5s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8314/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",台視綜合 [3/3｜啟動17.8s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8316/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",台視財經 [3/3｜啟動17.7s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8315/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",客家电视 [3/3｜啟動17.3s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8303/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",易中天品三国 [3/3｜啟動4.5s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.ottiptv.cc/yy/1354931498
+#EXTINF:-1 group-title="台灣｜候補中繼",民視 [3/3｜啟動16.5s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8308/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",民視台灣台 [3/3｜啟動16.5s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8311/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",民視新聞台 [3/3｜啟動16.4s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8310/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",民視第一台 [3/3｜啟動16.6s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8309/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",華視 [3/3｜啟動18.2s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8317/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",華視教育體育文化 [3/3｜啟動18.4s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8318/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",華視新聞資訊 [3/3｜啟動18.3s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://220.135.241.47:8319/0.ts
+#EXTINF:-1 group-title="台灣｜候補中繼",霹雳火：速度与激情 [3/3｜啟動6.6s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.ottiptv.cc/yy/1382736895
+#EXTINF:-1 group-title="台灣｜公開來源",AXN Asia Taiwan [3/3｜啟動17.6s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 group-title="Religious",GOOD TV CH1 綜合台 [3/3｜12.8s]
+#EXTINF:-1 group-title="台灣｜公開來源",Beautiful Life TV [3/3｜啟動11.5s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="台灣｜公開來源",CGNTV Chinese [3/3｜啟動9.9s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 group-title="台灣｜公開來源",Dali TV (大立電視台) [3/3｜啟動4.6s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="台灣｜公開來源",GOOD TV CH1 綜合台 [3/3｜啟動18.5s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 group-title="Religious",GOOD TV CH2 真理台 [3/3｜12.9s]
+#EXTINF:-1 group-title="台灣｜公開來源",GOOD TV CH2 真理台 [3/3｜啟動17.9s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 group-title="Religious",唯心電視 [3/3｜4.3s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="Shop",MOMO TV [3/3｜6.7s]
+#EXTINF:-1 group-title="台灣｜公開來源",MOMO TV [3/3｜啟動9.7s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
-#EXTINF:-1 group-title="中国大陆 · 体育",CCTV-5 体育 [3/3｜2.5s]
+#EXTINF:-1 group-title="台灣｜公開來源",NTD TV Asia-Pacific [3/3｜啟動1.8s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 group-title="中国大陆 · 体育",CCTV-5+ 体育赛事 [3/3｜1.7s]
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 group-title="台灣｜公開來源",Supreme Master TV [3/3｜啟動2.6s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 group-title="中国大陆 · 体育",CCTV-Billiards [3/3｜4.1s]
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 group-title="台灣｜公開來源",TVBS Asia [3/3｜啟動3.3s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 体育",CCTV-Golf & Tennis [3/3｜5.6s]
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="台灣｜公開來源",Taiwan Indigenous TV [3/3｜啟動3.8s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 体育",CCTV-Storm Football [3/3｜5.0s]
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="台灣｜公開來源",唯心電視 [3/3｜啟動7.7s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-1 综合 [3/3｜1.9s]
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="台灣｜聚合來源",Discovery Turbo TV [3/3｜啟動3.7s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://198.204.228.26/live/cctv1hd.m3u8
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-3 综艺 [3/3｜2.2s]
+https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
+#EXTINF:-1 group-title="台灣｜聚合來源",Mister Rogers' Neighborhood [3/3｜啟動4.9s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-7 国防军事 [3/3｜5.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-8 电视剧 [3/3｜2.1s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-Culture of Quality [3/3｜4.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-Health [3/3｜5.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-Nostalgia Theater [3/3｜5.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-Storm Music [3/3｜5.0s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-Storm Theater [3/3｜4.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-The First Theater [3/3｜4.8s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-Weapon & Technology [3/3｜5.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-Women's Fashion [3/3｜4.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV-World Geography [3/3｜4.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1 group-title="中国大陆 · 央视",CCTV文化精品 [3/3｜4.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://107.150.60.122/live/ysjp.m3u8
-#EXTINF:-1 group-title="中国大陆 · 影视",CCTV怀旧剧场 [3/3｜4.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
-#EXTINF:-1 group-title="中国大陆 · 影视",CCTV第一剧场 [3/3｜4.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://107.150.60.122/live/dyjc.m3u8
-#EXTINF:-1 group-title="中国大陆 · 纪录",CCTV-9 纪录 [3/3｜2.3s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://192.151.150.154/live/cctv9hd.m3u8
-#EXTINF:-1 group-title="加拿大 · 综合",CTV [3/3｜3.1s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://15.204.246.24:8080/CTVHD/index.m3u8
-#EXTINF:-1 group-title="加拿大 · 综合",CTV 2 Atlantic [3/3｜5.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://stream.cammonitorplus.net/1731/index.m3u8
-#EXTINF:-1 group-title="加拿大 · 综合",CTV 9 [3/3｜5.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
-#EXTINF:-1 group-title="台湾 · 综合",台视 [3/3｜2.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="国际 · 体育",FTV [3/3｜5.3s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://master.tucableip.com/ftvhd/index.m3u8
-#EXTINF:-1 group-title="国际 · 体育",Rev'n Action [3/3｜4.1s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
-#EXTINF:-1 group-title="国际 · 儿童",Detective Conan [3/3｜3.0s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
-#EXTINF:-1 group-title="国际 · 儿童",Detective Conan France [3/3｜3.0s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
-#EXTINF:-1 group-title="国际 · 儿童",Mr Bean Live Action [3/3｜4.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 儿童",South Park: Butters Collection [3/3｜2.1s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
-#EXTINF:-1 group-title="国际 · 儿童",South Park: Cartman Collection [3/3｜3.1s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
-#EXTINF:-1 group-title="国际 · 儿童",South Park: Kenny Collection [3/3｜2.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
-#EXTINF:-1 group-title="国际 · 儿童",South Park: Kyle Collection [3/3｜3.0s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
-#EXTINF:-1 group-title="国际 · 儿童",South Park: Stan Collection [3/3｜2.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
-#EXTINF:-1 group-title="国际 · 新闻",NCTV [3/3｜6.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 综合",50 Cent Action [3/3｜1.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
-#EXTINF:-1 group-title="国际 · 综合",AFTV [3/3｜3.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Access Media Productions Channel [3/3｜2.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Access Media Productions Community Channel [3/3｜2.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Access Media Productions Monterey Channel [3/3｜2.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Auction Hunters [3/3｜2.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
-#EXTINF:-1 group-title="国际 · 综合",BE@TTV [3/3｜4.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tv.beatfm.nl/live.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Beyond Belief: Fact or Fiction [3/3｜2.1s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-611f85396abc84000738417b.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Bloodline Detectives [3/3｜3.0s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-63d91cc58795f30008678e9d.m3u8
-#EXTINF:-1 group-title="国际 · 综合",CTV8 HD [3/3｜5.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Canal+ Action Europe Slovakia [3/3｜3.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Ciné Action by Pluto TV [3/3｜4.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
-#EXTINF:-1 group-title="国际 · 综合",ConecTV Brasil [3/3｜3.8s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Dr Phil's MeritTV [3/3｜3.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
-#EXTINF:-1 group-title="国际 · 综合",El Detective Endeavour [3/3｜2.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-619b9f16b8fee4000832d447.m3u8
-#EXTINF:-1 group-title="国际 · 综合",HauntTV CA [3/3｜1.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Hot Wheels Action [3/3｜4.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
-#EXTINF:-1 group-title="国际 · 综合",ICTV [3/3｜5.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://stream.mcquack.net/158/index.m3u8
-#EXTINF:-1 group-title="国际 · 综合",ICTV2 [3/3｜5.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://stream.mcquack.net/368/index.m3u8
-#EXTINF:-1 group-title="国际 · 综合",KCTV 광주 CH05 [3/3｜6.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Les Nouveaux Detectives [3/3｜2.3s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Los nuevos detectives [3/3｜3.0s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Medical Detectives [3/3｜3.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-68d113f9184f1a0620c8101c.m3u8
-#EXTINF:-1 group-title="国际 · 综合",NACTV [3/3｜3.3s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
-#EXTINF:-1 group-title="国际 · 综合",New Canaan Television 79 (NCTV79) (New Canaan CT) [3/3｜4.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Nolan Nanton Productions [3/3｜3.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn.mycloudstream.io/hls/live/broadcast/wbxpvv7l/index.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Pluto TV 80's Action [3/3｜3.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Pluto TV Action [3/3｜3.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Pluto TV Action Movies [3/3｜1.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Pluto TV French Collection [3/3｜2.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Pluto TV Reaction [3/3｜3.3s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Pluto TV Retro Action Movies [3/3｜2.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Pluto TV Retro Crime Action [3/3｜2.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Productiva TV [3/3｜3.3s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
-#EXTINF:-1 group-title="国际 · 综合",RCTV [3/3｜5.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Rakuten TV Action Movies Italy [3/3｜8.8s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Resurrection TV [3/3｜2.2s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Rifle Community TV RCTV (Rifle CO) [3/3｜3.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Scare Tactics [3/3｜2.6s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-6874ad2f3484d60732267ba8.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Smithsonian Channel Selects [3/3｜4.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Sony One Hits Action [3/3｜4.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Telewizja iTTV [3/3｜6.0s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 综合",The Film Detective [3/3｜6.0s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 综合",The New Detectives [3/3｜3.1s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
-#EXTINF:-1 group-title="国际 · 综合",The Pet Collective [3/3｜1.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
-#EXTINF:-1 group-title="国际 · 综合",The Pet Collective International [3/3｜3.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 综合",The Pet Collective Sweden [3/3｜3.3s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际 · 综合",UCTV - University of California [3/3｜1.8s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="国际 · 综合",Universal Action [3/3｜1.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://jmp2.uk/plu-654933e253fc970008390114.m3u8
-#EXTINF:-1 group-title="国际 · 综合",Viasat Kino Action [3/3｜5.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
-#EXTINF:-1 group-title="国际 · 综合",Yes Movies Action [3/3｜4.0s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://stream.mcquack.net/380/index.m3u8
-#EXTINF:-1 group-title="国际 · 综合",viju TV1000 action [3/3｜5.0s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://stream.mcquack.net/100/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-2财经 [3/3｜1.7s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://204.12.221.218:8181/3m1080p/cctv2.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6电影 [3/3｜2.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://204.12.221.218:8181/3m1080p/cctv6.m3u8
-#EXTINF:-1 group-title="宗教",Amazing Facts TV [3/3｜6.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
-#EXTINF:-1 group-title="宗教",RadiantTV [3/3｜2.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
-#EXTINF:-1 group-title="议会与立法",ACTV [3/3｜2.1s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
-#EXTINF:-1 group-title="议会与立法",Access Media Productions Marina TV [3/3｜2.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
-#EXTINF:-1 group-title="议会与立法",City TV Capital City Connection [3/3｜7.5s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
-#EXTINF:-1 group-title="议会与立法",Martin County MCTV (Martin County FL) [3/3｜2.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
-#EXTINF:-1 group-title="议会与立法",Monroe County Television MCTV (Monroe County FL) [3/3｜3.4s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
-#EXTINF:-1 group-title="韩国 · 综合",KCTV 광주 [3/3｜7.9s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 group-title="音乐 · MV",Activa TV [3/3｜4.8s]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 group-title="香港 · 综合",TVBS亚洲 [3/3｜1.4s]
+https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
+#EXTINF:-1 group-title="台灣｜聚合來源",TVBS亚洲 [3/3｜啟動1.7s]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣｜聚合來源",WBTV HBO Boxing [3/3｜啟動4.4s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
+#EXTINF:-1 group-title="台灣｜聚合來源",东森美洲 [3/3｜啟動2.1s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣｜聚合來源",东森超视 [3/3｜啟動1.4s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣｜聚合來源",台视 [3/3｜啟動2.2s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣｜聚合來源",大立电视 [3/3｜啟動4.7s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="台灣｜聚合來源",民视新闻 [3/3｜啟動2.7s]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
