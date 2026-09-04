@@ -1,0 +1,42 @@
+#EXTM3U
+#PLAYLIST:途播｜公開可播放頻道精簡版（2026-09-04）
+
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" group-title="台灣｜綜合",美好生活電視台 Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTVChinese.tw" group-title="台灣｜綜合",CGNTV 中文台
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-id="GoodTV.tw" group-title="台灣｜綜合",GOOD TV 綜合台
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="Good2.tw" group-title="台灣｜綜合",GOOD TV 真理台
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-id="NTDTVAsiaPacific.us" group-title="台灣｜綜合",新唐人亞太台 NTD TV Asia-Pacific
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw" group-title="台灣｜綜合",無上師電視台 Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="WXTV.tw" group-title="台灣｜綜合",唯心電視
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+#EXTINF:-1 tvg-id="CCTVPlus1.cn" group-title="中國｜新聞",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTVPlus2.cn" group-title="中國｜新聞",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GuangzhouTV.cn" group-title="中國｜綜合",廣州綜合頻道 Guangzhou TV
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 tvg-id="VOAChinese.us" group-title="華語｜新聞",VOA 美國之音中文
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNKids.us" group-title="卡通｜兒童",3ABN Kids Network
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" group-title="卡通｜動畫",EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="EnerGeekFAN.cl" group-title="卡通｜動畫",EnerGeek Fan
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="ExtremaKidsTV.cr" group-title="卡通｜兒童",Extrema Kids TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-id="Geekdot.br" group-title="卡通｜動畫",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" group-title="卡通｜兒童",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.us" group-title="全球｜新聞",ABC News Live
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
