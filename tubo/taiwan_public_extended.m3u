@@ -1,0 +1,43 @@
+#EXTM3U
+#PLAYLIST:途播｜台灣公開頻道擴充版（2026-09-04）
+
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" group-title="台灣｜綜合",美好生活電視台 Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTVChinese.tw" group-title="台灣｜綜合",CGNTV 中文台
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-id="DaliTV.tw" group-title="台灣｜綜合",大立電視台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-id="NTDTVAsiaPacific.us" group-title="台灣｜綜合",新唐人亞太台 NTD TV Asia-Pacific
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw" group-title="台灣｜綜合",無上師電視台 Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="WXTV.tw" group-title="台灣｜綜合",唯心電視
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+#EXTINF:-1 tvg-id="DaAi1.tw" group-title="台灣｜公益",大愛一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw" group-title="台灣｜公益",大愛二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="IndigenousTV.tw" group-title="台灣｜公共",原住民族電視台
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="台灣｜公共",TaiwanPlus TV
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoodTV.tw" group-title="台灣｜GOOD TV",GOOD TV 綜合台
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="Good2.tw" group-title="台灣｜GOOD TV",GOOD TV 真理台
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 group-title="台灣｜GOOD TV",GOOD TV 真情部落格
+https://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1 group-title="台灣｜GOOD TV",GOOD TV 禱告大軍
+https://live.streamingfast.net/osmflivech7.m3u8
+#EXTINF:-1 group-title="台灣｜GOOD TV",GOOD TV 愛＋好醫生
+https://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1 group-title="台灣｜GOOD TV",GOOD TV 維他命施
+https://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1 group-title="台灣｜GOOD TV",GOOD TV 真情之夜
+https://live.streamingfast.net/osmflivech15.m3u8
+#EXTINF:-1 group-title="台灣｜GOOD TV",GOOD TV 福音佈道音樂會
+https://live.streamingfast.net/osmflivech31.m3u8
+#EXTINF:-1 group-title="台灣｜GOOD TV",GOOD TV 特會系列
+https://live.streamingfast.net/osmflivech33.m3u8
