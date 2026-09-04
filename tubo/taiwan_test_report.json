@@ -1,0 +1,133 @@
+{
+  "generated_at": "2026-09-04T04:52:23+00:00",
+  "policy": "public/free Taiwan-focused streams; keep >=2 of 3 successful probes",
+  "sources": [
+    "http://wangziduoqing.com/yuan/zb.txt",
+    "https://iptv-org.github.io/iptv/countries/tw.m3u",
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_taiwan.m3u8",
+    "https://epg.pw/test_channels_taiwan.m3u",
+    "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/TaiWan.m3u8",
+    "https://raw.githubusercontent.com/cs3306/IPTV-Sources/main/data/output/iptv_collection.m3u"
+  ],
+  "candidate_count": 39,
+  "kept_count": 9,
+  "channels": [
+    {
+      "name": "GOOD TV 綜合台",
+      "group": "台灣｜GOOD TV",
+      "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+      "source": "static",
+      "successes": 3,
+      "rounds": 3,
+      "availability_percent": 100,
+      "median_start_seconds": 1.64,
+      "distinct_segments_seen": 3,
+      "live_segment_changed": true,
+      "errors": []
+    },
+    {
+      "name": "GOOD TV 真理台",
+      "group": "台灣｜GOOD TV",
+      "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+      "source": "static",
+      "successes": 3,
+      "rounds": 3,
+      "availability_percent": 100,
+      "median_start_seconds": 1.65,
+      "distinct_segments_seen": 3,
+      "live_segment_changed": true,
+      "errors": []
+    },
+    {
+      "name": "原住民族電視台",
+      "group": "台灣｜公共",
+      "url": "https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
+      "source": "static",
+      "successes": 3,
+      "rounds": 3,
+      "availability_percent": 100,
+      "median_start_seconds": 2.96,
+      "distinct_segments_seen": 3,
+      "live_segment_changed": true,
+      "errors": []
+    },
+    {
+      "name": "無上師電視台",
+      "group": "台灣｜綜合",
+      "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+      "source": "static",
+      "successes": 3,
+      "rounds": 3,
+      "availability_percent": 100,
+      "median_start_seconds": 0.46,
+      "distinct_segments_seen": 2,
+      "live_segment_changed": true,
+      "errors": []
+    },
+    {
+      "name": "CGNTV 中文台",
+      "group": "台灣｜綜合",
+      "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+      "source": "static",
+      "successes": 3,
+      "rounds": 3,
+      "availability_percent": 100,
+      "median_start_seconds": 0.83,
+      "distinct_segments_seen": 3,
+      "live_segment_changed": true,
+      "errors": []
+    },
+    {
+      "name": "新唐人亞太台",
+      "group": "台灣｜綜合",
+      "url": "https://live.ntdtv.com/aplive200/playlist.m3u8",
+      "source": "static",
+      "successes": 3,
+      "rounds": 3,
+      "availability_percent": 100,
+      "median_start_seconds": 0.94,
+      "distinct_segments_seen": 2,
+      "live_segment_changed": true,
+      "errors": []
+    },
+    {
+      "name": "大立電視台",
+      "group": "台灣｜綜合",
+      "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+      "source": "static",
+      "successes": 3,
+      "rounds": 3,
+      "availability_percent": 100,
+      "median_start_seconds": 1.02,
+      "distinct_segments_seen": 3,
+      "live_segment_changed": true,
+      "errors": []
+    },
+    {
+      "name": "美好生活電視台",
+      "group": "台灣｜綜合",
+      "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+      "source": "static",
+      "successes": 3,
+      "rounds": 3,
+      "availability_percent": 100,
+      "median_start_seconds": 1.7,
+      "distinct_segments_seen": 3,
+      "live_segment_changed": true,
+      "errors": []
+    },
+    {
+      "name": "唯心電視",
+      "group": "台灣｜綜合",
+      "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+      "source": "static",
+      "successes": 3,
+      "rounds": 3,
+      "availability_percent": 100,
+      "median_start_seconds": 1.73,
+      "distinct_segments_seen": 3,
+      "live_segment_changed": true,
+      "errors": []
+    }
+  ]
+}
